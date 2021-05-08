@@ -6,7 +6,7 @@ Filebox provides a convenience way to access your remote server folders: favorit
 
 Once you connected to your remote server, you can add favorite folder by swiping right.
 
-<img src="/_media/remote-add-favorite.png" width="360">
+<img src="../_media/remote-add-favorite.png" width="360">
 
 ## Remote Favorite
 

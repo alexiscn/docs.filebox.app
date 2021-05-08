@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 - Files
-  - [Add File]()
+  - [Add Files](files/add.md)
   - [File Operations](files/operations.md)
   - [Compress](files/compress.md)
   - [Decompress](files/decompress.md)
@@ -17,4 +17,4 @@
 - Video Player
   - [Gestures](video-player/gesture.md)
 - Editor
-  - [Text Editor]()
+  - [Text Editor](editor/text-editor.md)
