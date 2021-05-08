@@ -1,5 +1,9 @@
 <!-- docs/_sidebar.md -->
-
+- Quick Start
+  - [Files](file.md)
+  - [Music Player](music-player.md)
+  - [Video Player](video-player.md)
+  - [Editor](editor.md)
 - Files
   - [Add Files](files/add.md)
   - [File Operations](files/operations.md)
