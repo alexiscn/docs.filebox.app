@@ -1,8 +1,10 @@
 # Upload
 
+> Currently only support upload one file one time. Batch uploading will coming in future updates.
+
 ## Upload from Photo Library
 
-You can upload photo and video from photos. Currently only 
+You can upload photo and video from photos. 
 
 ## Upload from Files
 
