@@ -19,10 +19,15 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+      alias: {
+        '/((?!cn).)*/_sidebar.md': '/_sidebar.md',
+        '/cn/.*/_sidebar.md': '/cn/_sidebar.md',
+      },
       auto2top: true,
       coverpage: false,
       loadSidebar: true,
       loadNavBar: true,
+      themeColor: '#FFA000',
       name: 'Filebox',
       repo: ''
     }

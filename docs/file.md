@@ -1,25 +1,25 @@
 # Files
 
-File Management is the core feature of Filebox. We cloud manage local files as well as remote files.
+File Management is the core feature of Filebox. We can manage local files as well as remote files using Filebox. The file system of Filebox is open, that means you can access the files using any other app. You can even manage files using Finder app.
 
-## Add file
+## Add files
 
-Add files to Filebox can be done in many ways:
+Add files to Filebox can be done in various ways:
 
 - Via WiFi transfer
 - Via AirDrop
 - Via external "Files" app
 - Via Remote Server (SMB/NAS/FTP/WebDAV)
-- Via Mac Finder
+- Via macOS Finder
 
-After you add files to Filebox, you can play with files!
+After you added files to Filebox, you can play with files!
 
 
-## Handle file
+## Play with files
 
 You can do lots with your files:
 
-- Play
+- Play (usually play video and music)
 - Edit
 - View Info (MD5/SHA1/SHA256...)
 - Move
@@ -29,3 +29,13 @@ You can do lots with your files:
 - And more...
 
 <img src="/_media/files-contextual-menu.png" width="360"/>
+
+## Remote Server
+
+You can also manage your remote files using Filebox. Following list describes currently supported operations:
+
+- Play videos
+- Play audios
+- Upload files
+- Move
+- Delete

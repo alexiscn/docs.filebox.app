@@ -1,0 +1,24 @@
+<!-- docs/cn/_sidebar.md -->
+- 快速开始
+  - [文件](cn/file.md)
+  - [音乐播放器](cn/music-player.md)
+  - [视频播放器](cn/video-player.md)
+  - [编辑器](cn/editor.md)
+- 文件
+  - [添加文件](cn/files/add.md)
+  - [操作文件](cn/files/operations.md)
+  - [压缩](cn/files/compress.md)
+  - [解压缩](cn/files/decompress.md)
+- 远程服务器
+  - [协议](cn/remote/protocols.md)
+  - [连接](cn/remote/connect.md)
+  - [收藏](cn/remote/favorite.md)
+  - [上传](cn/remote/upload.md)
+- 音乐播放器
+  - [歌词](cn/music-player/lyrics.md)
+  - [编辑元数据](cn/music-player/edit-metadata.md)
+  - [定时关闭](cn/music-player/sleep-timer.md)
+- 视频播放器
+  - [手势](cn/video-player/gesture.md)
+- Editor
+  - [编辑器](cn/editor/text-editor.md)
