@@ -4,7 +4,7 @@ Filebox provides a beautiful movie player to play local and remote videos.
 
 <img src="../_media/video-player.png" width="720" />
 
-Filebox provides lots gestures to enhance
+Filebox provides lots gestures to enhance the experiences of the video player:
 
 - Swipe left/right to fast backward/forward
 - Swipe up/down in left half screen to adjust brightnesss
