@@ -28,7 +28,7 @@
 - 分享
 - 还有更多...
 
-<img src="/_media/files-contextual-menu.png" width="360"/>
+<img src="../_media/files-contextual-menu.png" width="360"/>
 
 ## 远程服务器
 

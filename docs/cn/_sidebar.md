@@ -1,9 +1,9 @@
 <!-- docs/cn/_sidebar.md -->
 - 快速开始
-  - [文件](cn/file.md)
-  - [音乐播放器](cn/music-player.md)
-  - [视频播放器](cn/video-player.md)
-  - [编辑器](cn/editor.md)
+  - [文件](cn/quick-start/file.md)
+  - [音乐播放器](cn/quick-start/music-player.md)
+  - [视频播放器](cn/quick-start/video-player.md)
+  - [编辑器](cn/quick-start/editor.md)
 - 文件
   - [添加文件](cn/files/add.md)
   - [操作文件](cn/files/operations.md)

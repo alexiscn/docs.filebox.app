@@ -28,7 +28,7 @@ You can do lots with your files:
 - Share
 - And more...
 
-<img src="/_media/files-contextual-menu.png" width="360"/>
+<img src="../_media/files-contextual-menu.png" width="360"/>
 
 ## Remote Server
 
