@@ -1,9 +1,11 @@
-# Editor
+# 编辑器
 
-Filebox provides a simple text editor to edit your text files.
+Filebox提供了一个简单的文本编辑器来编辑你的文本文件。
 
 
-- Code Highlighting
-- Custom Font
-- Custom Line Height
-- Export to PDF
+- 代码高亮
+- 自定义字体
+- 自定义线高
+- 导出到PDF
+
+<img src=".../_media/editor.png" width="360" />
